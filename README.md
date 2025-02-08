@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=water473&label=Profile%20views&color=0e75b6&style=flat" alt="water473" /> </p>
 
-- 🌱 I’m currently learning **Discrete math, TensorFlow , Django, AWS**
+- 🌱 I’m currently learning **Discrete math, TensorFlow , Django, Data analysis**
 
 - 📫 How to reach me **dimitriosmah@gmail.com**
 
